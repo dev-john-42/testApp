@@ -1,0 +1,33 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "authenticationType": "jwt",
+    "baseName": "testApp",
+    "buildTool": "maven",
+    "cacheProvider": "no",
+    "clientFramework": "no",
+    "clientTestFrameworks": null,
+    "clientTheme": null,
+    "creationTimestamp": 1739160128347,
+    "databaseType": "no",
+    "devDatabaseType": null,
+    "enableHibernateCache": null,
+    "enableTranslation": false,
+    "entities": [],
+    "feignClient": null,
+    "jhipsterVersion": "8.9.0",
+    "jwtSecretKey": "ZTY5ZDIyZDRkMjgzNDYwZGU0ZDMwMWRmOTY5N2Q4NDAxZDllMzAxZjM3NmMxOGFkODgwM2QwYTE3OTIwNzg2ZDMxM2NiNTc1MWRkODU5OTc2MTgzMmUzMGExYzQ2ZjdkNTBmOTJkN2ZiMjY4ZmQ1NTE0YTI5ZTViMDkzMmE4Njg=",
+    "microfrontend": null,
+    "microfrontends": [],
+    "nativeLanguage": "en",
+    "packageName": "com.mycompany.myapp",
+    "prodDatabaseType": null,
+    "reactive": false,
+    "serverPort": null,
+    "serviceDiscoveryType": null,
+    "skipClient": true,
+    "syncUserWithIdp": null,
+    "testFrameworks": [],
+    "withAdminUi": null
+  }
+}
